@@ -1,0 +1,25 @@
+.customized{
+  width: 740px;
+}
+.remove-btn{
+  background-color: #b08968;
+  color: #ede0d4;
+}
+.remove-btn:hover{
+  background-color: #7f5539;
+  color: #ede0d4;
+}
+.continue-btn{
+  background-color: #ddb892;
+  color: #ede0d4;
+}
+.continue-btn:hover{
+  background-color: #7f5539;
+  color: #ede0d4;
+}
+.title{
+  color: #9c6644;
+}
+.desc{
+  color: #7f5539;
+}

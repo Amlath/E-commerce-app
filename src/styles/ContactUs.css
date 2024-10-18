@@ -1,0 +1,11 @@
+.contact-container{
+  width: 500px;
+  background-color: #b08968;
+  color: #ede0d4;
+}
+.submit-btn{
+  background-color: #ddb892;
+}
+.submit-btn:hover{
+  background-color: #9c6644;
+}

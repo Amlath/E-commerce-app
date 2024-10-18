@@ -1,0 +1,26 @@
+.main-container{
+  height: 500px;
+  margin-bottom: 160px;
+}
+.addtocart-btn{
+  background-color: #b08968;
+  color: #ede0d4;
+}
+.addtocart-btn:hover{
+  background-color: #7f5539;
+  color: #ede0d4;
+}
+.goback-btn{
+  background-color: #ddb892;
+  color: #ede0d4;
+}
+.goback-btn:hover{
+  background-color: #7f5539;
+  color: #ede0d4;
+}
+.title{
+  color: #9c6644;
+}
+.desc{
+  color: #7f5539;
+}

@@ -1,0 +1,14 @@
+.heading-color{
+  color: #9c6644;
+}
+.price-color{
+  color: #7f5539;
+}
+.btn-prop{
+  background-color: #9c6644;
+  color: #ede0d4;
+}
+.btn-prop:hover{
+  background-color: #7f5539;
+  color: #ede0d4;
+}
